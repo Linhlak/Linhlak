@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @Linhlak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Linhlak/Linhlak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer science Keywords
+1. Computations
+   refers to the process of performing mathematical calculations or processing data according to a set of rules or algorithms. It is driven by:
+1.1 Central Processing Unit (CPU)
+    CPU stands for Central Processing Unit. It is often referred to as the "brain" of a computer, as it performs most of the processing and calculations necessary for executing instructions from programs.
+1.2 Graphic Processing Unit (GPU)
+    It is a specialized processor desinged to handle and accelerate the rendering of images, video and animation. It can handle many operations simultaneously.
+1.3 Data Processing Unit (DPU)
+    is a specialized processor desinged to hamdle and accelerate data-centric tasks.
+1.4 Tensor Processing Unit (TPU)
+     is a specialized hardware accelerator designed by Google for high-performance machine learning task.
+1.5 MEMORY (RAM)
+    Temporary storage used by the CPU to hold data and instructions while processing. Function: Random Access Memory (RAM) is used for temporarily storing data and instructions that the CPU needs while performing tasks. Characteristics: Volatile, meaning it loses its data when the computer is turned off.
+1.6 STORAGE
+    
