@@ -1,0 +1,269 @@
+COMPUTER SCIENCE
+image alt
+
+Computer science is a broad field that focuses on the study of computers and computational systems. It encompasses both the theoretical aspects of computation and the practical aspects of designing and implementing software and hardware systems.
+
+Major Keywords:-
+1.Programming Language:
+
+alt image
+
+A programming language is a formal set of instructions used to communicate with a computer and perform various tasks. It provides a syntax and semantics for writing programs that can be executed by a computer to perform specific operations.
+
+2.Networking:
+
+Networking in the context of computer science refers to the practice of connecting computers and other devices together to share resources, exchange data, and communicate. It encompasses both the hardware and software technologies that enable this connectivity.
+
+3.Algorithm:
+
+alt image
+
+Algorithms are fundamental to programming and data processing, providing a systematic way to achieve a desired outcome. Here are key aspects of algorithms:
+
+a.Steps and Instructions: An algorithm consists of a sequence of operations or instructions that must be executed in a specific order. Each step should be clear and unambiguous, ensuring that the process can be easily followed and implemented.
+
+b.Finite and Terminable: An algorithm must have a finite number of steps and must eventually terminate. It should not run indefinitely or loop endlessly unless it is specifically designed for iterative processes with a clear stopping condition.
+
+c.Input and Output: An algorithm typically receives input (data or parameters) and produces output (results or solutions). The input is transformed into output through the algorithm's defined steps.
+
+d.Effectiveness: Each step of an algorithm should be simple enough to be performed exactly and in a finite amount of time. The operations should be practical and feasible to execute.
+
+e.Correctness: An algorithm should produce the correct output for all valid inputs. It must be rigorously tested to ensure it handles various cases and edge conditions appropriately.
+
+4.Data Structure:
+
+A data structure is a specialized format for organizing, managing, and storing data in a computer so that it can be accessed and modified efficiently. Data structures are essential for optimizing the performance of algorithms and for ensuring that data operations (such as retrieval, insertion, and deletion) are executed effectively.
+
+5.Computer Architecture:
+
+Computer architecture refers to the design and organization of a computer's hardware components and the way they interact with each other. It encompasses the structure and functionality of computer systems, focusing on how the various parts of a computer work together to execute programs and process data.
+
+Key Aspects of Computer Architecture:
+
+Instruction Set Architecture (ISA):
+Definition: The ISA defines the set of instructions that a computer's CPU can execute. It includes the set of operations, the instruction formats, and the ways in which the CPU interacts with memory and I/O devices. Example: x86, ARM.
+
+Microarchitecture:
+
+Definition: The microarchitecture refers to the internal structure and organization of a CPU. It includes details such as the arrangement of execution units, registers, cache, and the data paths within the CPU. Example: Intel’s Core i7 or AMD’s Ryzen processors.
+
+Memory Hierarchy:
+
+Definition: This concept deals with the organization of different types of memory in a computer system, including registers, cache, RAM, and disk storage. The hierarchy is designed to balance speed and cost by using faster but more expensive memory (like caches) closer to the CPU and larger but slower memory (like hard drives) further away. Levels: Typically includes L1 (Level 1) cache, L2 (Level 2) cache, L3 (Level 3) cache, main memory (RAM), and secondary storage (SSD/HDD).
+
+Pipelining:
+
+Definition: Pipelining is a technique used to improve the CPU's performance by overlapping the execution of multiple instructions. It involves dividing the execution process into separate stages, allowing the CPU to work on multiple instructions simultaneously. Stages: Common stages include instruction fetch, instruction decode, execution, memory access, and write-back.
+
+Parallelism:
+
+Definition: Parallelism involves using multiple processors or cores to perform computations simultaneously, thereby increasing the overall performance of the system. It can be implemented at various levels, such as instruction-level parallelism (ILP), thread-level parallelism (TLP), and data-level parallelism (DLP). Examples: Multi-core processors, GPUs.
+
+6.Operating systerm
+
+An Operating System is system software that acts as an intermediary between users and the computer hardware. It is responsible for managing hardware resources (such as the CPU, memory, and storage devices), providing a user interface, and enabling the execution of application software. The OS performs essential functions to ensure that hardware and software work together efficiently and securely.
+
+7.Web Development
+
+Web Development is the process of designing, building, deploying, and maintaining websites and web applications. It involves the use of various technologies and programming languages to create functional, interactive, and aesthetically pleasing web experiences for users. Web development also includes ensuring that web applications are secure, performant, and scalable.
+
+Key Components of Web Development:
+
+Front-End Development:
+
+Definition: The client-side part of web development, focused on what users see and interact with in their web browsers.
+
+Technologies:
+HTML (HyperText Markup Language): Structures the content on the web page.
+CSS (Cascading Style Sheets): Styles the appearance of web pages (e.g., layout, colors, fonts).
+JavaScript: Adds interactivity and dynamic features to web pages (e.g., animations, form validations).
+Front-End Frameworks and Libraries: Tools like React, Angular, and Vue.js that simplify and enhance front-end development.
+Back-End Development:
+
+Definition: The server-side part of web development, focused on how web applications function behind the scenes and manage data.
+
+Technologies:
+Server-Side Languages: Languages like Python, Ruby, PHP, Java, and Node.js used to create server-side logic.
+Databases: Systems like MySQL, PostgreSQL, MongoDB, and SQLite that store and manage data.
+Server Management: Handling server configurations, APIs, and ensuring the backend can process requests and serve data efficiently.
+Full-Stack Development:
+
+Definition: Combines both front-end and back-end development to create complete web applications.
+Skills: Involves proficiency in both client-side and server-side technologies and the ability to manage the entire web development process.
+Web Design:
+
+Definition: Involves the aesthetic and usability aspects of web development, including layout design, color schemes, typography, and user experience (UX) design.
+Tools: Design software like Adobe XD, Figma, and Sketch are often used to create mockups and prototypes.
+Web Hosting and Deployment:
+
+Definition: The process of making a web application or website accessible on the internet.
+Components: Includes choosing a hosting provider, setting up servers, and deploying code.
+Tools: Services like AWS, Heroku, and Netlify facilitate hosting and deployment.
+Web Security:
+
+Definition: Ensuring that web applications and data are protected from threats and vulnerabilities.
+Practices: Includes implementing SSL/TLS for secure communication, protecting against SQL injection, cross-site scripting (XSS), and ensuring proper authentication and authorization.
+8.Python
+
+alt image
+
+Python is a high-level, interpreted, and general-purpose programming language known for its readability, simplicity, and versatility. Developed by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to express concepts in fewer lines of code compared to other languages. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Basic Example:
+
+Here is a simple example of Python code that prints "Hello, World!" to the console:
+
+alt image
+
+9.Blockchain:
+
+In computer science, blockchain refers to a specific type of distributed ledger technology that ensures data integrity and security through a decentralized network of computers. It is a sequential chain of blocks, where each block contains a set of transactions and is linked to the previous block using cryptographic hashes.
+
+10.Database Management System (DBMS)
+
+A Database Management System (DBMS) is a software application that provides an interface for users to interact with and manage databases. It handles the creation, retrieval, updating, and deletion of data in a structured way. Essentially, a DBMS serves as a mediator between end-users or applications and the database, ensuring that data is stored securely and can be efficiently accessed and manipulated.
+
+Key Functions of a DBMS:
+
+1.Data Definition: Allows users to define the structure of data (e.g., tables, columns, relationships) through data definition language (DDL) commands. This includes creating, altering, and deleting database schemas and objects.
+
+2.Data Manipulation: Provides facilities to manipulate data using data manipulation language (DML) commands, such as inserting, updating, deleting, and querying data.
+
+3.Data Retrieval: Supports querying of data to retrieve specific information using query languages like SQL (Structured Query Language). This includes filtering, sorting, and aggregating data.
+
+4.Data Security: Implements security measures to control access to data. This includes user authentication, authorization, and encryption to protect sensitive information.
+
+5.Data Integrity: Ensures that data is accurate and consistent by enforcing constraints and validation rules, such as primary keys, foreign keys, and unique constraints.
+
+6.Transaction Management: Manages transactions to ensure data integrity and consistency, even in the event of system failures or concurrent access. This includes features like atomicity, consistency, isolation, and durability (ACID properties).
+
+7.Backup and Recovery: Provides tools for backing up data and recovering it in case of data loss or corruption. This includes periodic backups and recovery procedures to restore data to a consistent state.
+
+8.Concurrency Control: Manages simultaneous access to the database by multiple users to prevent conflicts and ensure that transactions do not interfere with each other.
+
+9.Data Administration: Includes tools for monitoring and managing database performance, optimizing queries, and tuning system parameters.
+
+11.Structured Query Language(SQL)
+
+SQL is a domain-specific language designed for managing and manipulating relational databases. It allows users to create, read, update, and delete (CRUD) data stored in a relational database management system (RDBMS).
+
+12.Machine Learning
+
+Machine learning is a branch of artificial intelligence where algorithms enable computers to learn from and make predictions or decisions based on data. Instead of being explicitly programmed for specific tasks, models improve their performance over time by identifying patterns and relationships within data.
+
+13.DevOps (Development Operations)
+
+DevOps focuses on the seamless integration of development and operations processes. It aims to streamline the software development lifecycle (SDLC) by fostering collaboration, automating processes, and applying principles from both software engineering and system administration.
+
+14.HTML
+
+HTML is a markup language that provides the basic building blocks for creating web pages. It structures content and integrates with other technologies like CSS (Cascading Style Sheets) and JavaScript to create fully functional web applications.\
+
+Basic HTML Structure
+
+An HTML document consists of elements enclosed within tags. The fundamental structure of an HTML document is:
+
+alt image
+
+DOCTYPE html: Declaration that defines the document type and version of HTML (HTML5 in this case).
+html: Root element that contains all other HTML elements.
+head: Contains meta-information about the document, such as the title and links to stylesheets or scripts.
+title: Sets the title of the document, which appears in the browser’s title bar or tab.
+body: Contains the content of the document, including text, images, links, and other elements.
+15.Cloud Storage
+
+Cloud storage is a model of data storage in which digital data is stored on remote servers accessed via the internet, rather than on a local computer or physical storage device. This allows users to store, manage, and retrieve their data from anywhere with an internet connection.
+
+Key features of cloud storage include:
+
+Scalability: Users can easily increase or decrease storage capacity as needed.
+
+Accessibility: Data can be accessed from multiple devices and locations.
+
+Backup and Recovery: Cloud services often provide automatic backup solutions and data recovery options.
+
+Cost-Effectiveness: Users typically pay only for the storage they use, avoiding the costs associated with physical hardware.
+
+Collaboration: Cloud storage facilitates easy sharing and collaboration on documents and files.
+
+16.Protocol
+
+In computer science, a protocol is a set of rules and conventions that govern how data is transmitted and communicated between devices over a network. Protocols define the format, order, and error handling of messages exchanged, ensuring that devices can understand each other and work together effectively.
+
+Key aspects of protocols include:
+
+Communication Rules: Specify how data is packaged, addressed, transmitted, and received.
+Message Formats: Define the structure of messages, including headers and payloads.
+Error Handling: Include mechanisms for detecting and correcting errors during transmission.
+Synchronization: Ensure that communication occurs in an orderly manner, allowing for coordination between devices.
+17.CONTAINERS
+
+A container in computer science is a lightweight, portable unit that packages an application and its dependencies, including libraries, configurations, and other necessary files, so that it can run consistently across different computing environments. Containers use virtualization at the operating system level, allowing multiple containers to share the same OS kernel while isolating them from each other.
+
+Popular Container Technologies:
+
+Docker: The most widely used containerization platform, which provides tools to create, deploy, and manage containers.
+Kubernetes: An orchestration platform for managing large numbers of containers, handling deployment, scaling, and networking.
+18.DOCKERS
+
+Docker is an open-source platform that enables developers to automate the deployment, scaling, and management of applications using containerization. It allows you to package applications and their dependencies into standardized units called containers, which can run consistently across various environments.
+
+alt image
+
+Key Concepts of Docker:
+
+Containers: Lightweight, portable units that encapsulate an application and its dependencies. Containers share the host operating system’s kernel, which makes them more efficient than traditional virtual machines.
+
+Images: A Docker image is a read-only template used to create containers. Images contain everything needed to run an application, including the code, libraries, and environment variables. They are built using a file called a Dockerfile, which contains instructions on how to assemble the image.
+
+Dockerfile: A text file that contains a series of instructions for building a Docker image. It specifies the base image, application code, dependencies, and configuration settings.
+
+Docker Hub: A cloud-based registry for sharing and storing Docker images. Users can pull images from Docker Hub or push their own images for others to use.
+
+Docker Compose: A tool for defining and running multi-container applications using a simple YAML file. It allows you to configure the services, networks, and volumes required for an application in one place.
+
+NGINX
+
+Nginx (pronounced "engine-x") is a high-performance web server and reverse proxy server known for its speed, scalability, and efficiency. Originally created to handle high concurrency with low resource consumption, Nginx is widely used to serve static content, manage load balancing, and handle dynamic web applications.
+
+alt image 
+
+How to Install NGINX
+
+In this tutorial, we’ll show you how to install NGINX on Linux. Open your Linux machine and run an update using the command below:
+
+sudo apt-get update
+Next, run this command:
+
+sudo apt-get install nginx
+Then, enable your firewall with the following:
+
+sudo ufw enable
+To verify NGINX is installed, run the following:
+
+nginx -v
+You can run the command below to find out if NGINX is running:
+
+sudo ufw status
+After running this command, you should see the following:
+
+status: active
+To check whether your NGINX server is working fine, run the following:
+
+sudo systemctl status nginx
+20.OSL MODEL
+
+<!--
+**Linhlak/Linhlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
